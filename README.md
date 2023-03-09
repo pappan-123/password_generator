@@ -16,4 +16,4 @@ It generates passwords as per our requirements
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
 
-## We have deployed our website at : [Click here](https://covi-site-blue-moon.herokuapp.com/)
+## We have deployed our website at : [Click here](https://transcendent-cranachan-efeec1.netlify.app/)
