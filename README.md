@@ -1,5 +1,5 @@
 # password_generator
-![Untitled-1 copy](https://user-images.githubusercontent.com/84338935/126891475-1ed6086d-2299-4297-9403-6ce02b6aa651.jpg)
+![pass_gen](https://user-images.githubusercontent.com/85434109/223944492-8c58a609-aa0c-41e0-a092-3b2f77876600.png)
 
 <h1 align="center">It generates passwords as per your requirements.</h1>
 
