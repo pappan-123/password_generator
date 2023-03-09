@@ -1,5 +1,5 @@
 # password_generator
-![Untitled-1 copy](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F77%2FGoogle_Images_2015_logo.svg%2F1200px-Google_Images_2015_logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle_Images&tbnid=7fEVakcJUgrsmM&vet=12ahUKEwj_-MbMoc79AhXhodgFHV0TCQcQMygHegUIARDsAQ..i&docid=qfPPp-mRFi6Y6M&w=1200&h=412&q=google%20photos&ved=2ahUKEwj_-MbMoc79AhXhodgFHV0TCQcQMygHegUIARDsAQ)
+![Untitled-1 copy](https://user-images.githubusercontent.com/84338935/126891475-1ed6086d-2299-4297-9403-6ce02b6aa651.jpg)
 
 <h1 align="center">It generates passwords as per your requirements.</h1>
 
